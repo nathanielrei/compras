@@ -1,2 +1,2 @@
 # compras
-um desafio de uma das minha aulas onde criei um codigo para comprar 
+um desafio de uma das minhas aulas onde criei um codigo para comprar 
